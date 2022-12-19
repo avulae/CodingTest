@@ -1,0 +1,8 @@
+Write the code logic to find duplicate characters of a given string.
+
+public class FindDuplicateCharacter {
+ public static void main ( String[] args){ 
+String string1 = "ApplicationTestingWithExample";
+int count; char String []= string1.toCharArray();
+System.out.println("Duplicate Char in the given string:"); } }
+
